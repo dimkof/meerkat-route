@@ -1,0 +1,20 @@
+{
+        "name": "aberdnikov/meerkat-route",
+        "type": "kohana-module",
+        "description": "Route module for MeerkatCMF (on Kohana 3.3)",
+        "homepage": "http://github.com/aberdnikov/meerkat-route",
+        "license": "MIT",
+        "keywords": ["kohana", "module", "meerkat", "route"],
+        "authors": [
+                {
+                        "name": "Alexey Berdnikov",
+                        "email": "aberdnikov@gmail.com",
+                        "homepage": "https://github.com/aberdnikov",
+                        "role": "Module maintainer"
+                }
+        ],
+        "require": {
+                "php": ">=5.3",
+                "composer/installers": "*"
+        }		
+ }
